@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_title">Вход</string>
+    <string name="register_title">Зарегистрироваться</string>
+    <string name="name">Music Collecter</string>
+    <string name="title_activity_music_list">MusicListActivity</string>
+    <string name="choose_song">Название аудиозаписи</string>
+    <string name="help_text">Приложение является облачным музыкальным хранилищем, позволяющим пользователям загружать свою музыку на сервер, воспроизводить музыку и скачивать ее.\nДля загрузки файла на сервер необходимо нажать кнопку "Добавить", выбрать аудиофайл и дождаться загрузки на сервер. Удаление и скачивание осуществляется с помощью кнопок, расположенных рядом с названием песни.\nПрограммирование сетевых приложений. Курсовой проект.\nАвтор:\nКухта А.В.
+    </string>
+</resources>

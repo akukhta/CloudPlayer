@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#494a4a" tools:context=".HelpActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="634dp"
+        android:text="@string/help_text"
+        android:textColor="@color/font_color"
+        android:textSize="24sp"
+        tools:text="@string/help_text" />
+
+    <Button
+        android:id="@+id/closehelp"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:text="Закрыть"
+        android:textColor="@color/font_color" />
+</LinearLayout>
