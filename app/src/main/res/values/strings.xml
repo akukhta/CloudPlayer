@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">MCloud</string>
     <string name="login_title">Вход</string>
     <string name="register_title">Зарегистрироваться</string>
     <string name="name">Music Collecter</string>
